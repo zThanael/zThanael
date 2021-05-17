@@ -1,11 +1,12 @@
-# Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+<h1 align='center'> Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> </h1>
 <p align="center">
 
 ### 🤵 Sobre mim:
 
 - 🎓 Estudante de Engenharia de Software 3° Semestre.
 - 💡  Intusiasta por Python
-- 
+
+---
 
 <p>
 <a href="https://github.com/zThanael">
@@ -34,5 +35,3 @@
 </div>
 
 ---
-
-![](https://komarev.com/ghpvc/?username=ImGabreuw&color=blue&style=flat)
