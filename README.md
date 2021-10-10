@@ -3,7 +3,7 @@
 
 ### 🤵 Sobre mim:
 
-- 🎓 Estudante de Engenharia de Software 3° Semestre.
+- 🎓 Estudante de Engenharia de Software 4° Semestre.
 - 💡  Intusiasta por Python
 
 ---
