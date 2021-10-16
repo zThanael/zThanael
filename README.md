@@ -6,8 +6,12 @@
 ---
 
 ### 🤵 Sobre mim:
+Me chamo Thanael Butewicz tenho 20 anos, aspiro futuramente me tornar um desenvolvedor de software, atualmente ainda estou estudando meio que de tudo um pouco para decidir qual área exatamente seguir. 
+No exato momento em que escrevo isto estou estudando JavaScript e iniciando em Node.Js
 
-- 🎓 Estudante de Engenharia de Software 4° Semestre.
+- Curso: 🎓 Estudante de Engenharia de Software 4° Semestre.
+- Ocupação: :man_office_worker: Aprendiz Administrativo em **Soluções B2C** na **[Pormade.](https://www.pormadeonline.com.br)**
+
 
 ---
   
@@ -23,11 +27,12 @@
   
 ---
 
-<p>
+<h3> Atividades: </h3>
+
 <a href="https://github.com/zThanael">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zThanael&show_icons=true&theme=radical" />
 </a>
-</p>
+
 
 ---
 
