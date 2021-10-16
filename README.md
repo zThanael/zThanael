@@ -4,7 +4,13 @@
 ### 🤵 Sobre mim:
 
 - 🎓 Estudante de Engenharia de Software 4° Semestre.
+
+---
+  
+### Conhecimentos em tecnologias:
+- HTML, CSS e JavaScript
 - 💡  Intusiasta por Python
+- PostgreSQL
 
 ---
 
