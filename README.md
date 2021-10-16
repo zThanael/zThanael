@@ -43,13 +43,6 @@
       src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
     />
    </a>
-     <a href="">
-    <img 
-      alt="Currículo" 
-      title="Thanael Butewicz"
-      src="https://img.shields.io/badge/-curriculo-black"
-    />
-   </a>
 </div>
 
 ---
