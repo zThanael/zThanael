@@ -1,4 +1,4 @@
-[](https://media-exp1.licdn.com/dms/image/C4D16AQED6UFmK_Ao6A/profile-displaybackgroundimage-shrink_350_1400/0/1603666821175?e=1639612800&v=beta&t=gkAz6raNXNfuYsgevKnJKZihNChO6sGpq68zRF5FZ2g)
+<img src='https://media-exp1.licdn.com/dms/image/C4D16AQED6UFmK_Ao6A/profile-displaybackgroundimage-shrink_350_1400/0/1603666821175?e=1639612800&v=beta&t=gkAz6raNXNfuYsgevKnJKZihNChO6sGpq68zRF5FZ2g'>
 <h1 align='center'> Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> </h1>
 <p align="center">
 
