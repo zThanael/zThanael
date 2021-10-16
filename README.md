@@ -7,14 +7,14 @@
 
 ---
   
-### Conhecimentos das seguintes tecnologias:
+### :computer: Conhecimentos:
 - HTML, CSS e JavaScript
 - 💡  Intusiasta por Python
 - PostgreSQL
 
 ---
   
-### Estudando as seguintes tecnologias:
+### :writing_hand: Estudando:
 - Node.js
   
 ---
