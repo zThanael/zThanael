@@ -9,7 +9,7 @@
   
 ### :computer: Conhecimentos:
 - HTML, CSS e JavaScript
-- 💡  Intusiasta por Python
+- Intusiasta por Python 💡
 - PostgreSQL
 
 ---
