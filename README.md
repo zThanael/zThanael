@@ -7,11 +7,16 @@
 
 ---
   
-### Conhecimentos em tecnologias:
+### Conhecimentos das seguintes tecnologias:
 - HTML, CSS e JavaScript
 - 💡  Intusiasta por Python
 - PostgreSQL
 
+---
+  
+### Estudando as seguintes tecnologias:
+- Node.js
+  
 ---
 
 <p>
@@ -36,6 +41,13 @@
       alt="LinkedIn" 
       title="Thanael Butewicz"
       src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
+    />
+   </a>
+     <a href="">
+    <img 
+      alt="Currículo" 
+      title="Thanael Butewicz"
+      src="https://img.shields.io/badge/-curriculo-black"
     />
    </a>
 </div>
