@@ -10,7 +10,8 @@ Me chamo Thanael Butewicz tenho 20 anos, aspiro futuramente me tornar um desenvo
 No exato momento em que escrevo isto estou estudando JavaScript e iniciando em Node.Js
 
 - Curso: 🎓 Estudante de Engenharia de Software 4° Semestre.
-- Ocupação: :man_office_worker: Aprendiz Administrativo em **Soluções B2C** na **[Pormade.](https://www.pormadeonline.com.br)**
+- Ocupação: :man_office_worker: Aprendiz em **Desenvolvimento de Sistemas** na **[Pormade.](https://www.pormadeonline.com.br)**
+             man_office_worker: Estágiario em **Desenvolvimento de Sistemas** na **[Pormade.](https://www.pormadeonline.com.br)**
 
 
 ---
