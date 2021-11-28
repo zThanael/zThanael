@@ -11,7 +11,7 @@ No exato momento em que escrevo isto estou estudando JavaScript e iniciando em N
 
 - Curso: 🎓 Estudante de Engenharia de Software 4° Semestre.
 - Ocupação: :man_office_worker: Aprendiz em **Desenvolvimento de Sistemas** na **[Pormade.](https://www.pormadeonline.com.br)** <br>
-             man_office_worker: Estágiario em **Desenvolvimento de Sistemas** na **[Pormade.](https://www.pormadeonline.com.br)**
+            :man_office_worker: Estágiario em **Desenvolvimento de Sistemas** na **[Pormade.](https://www.pormadeonline.com.br)**
 
 
 ---
