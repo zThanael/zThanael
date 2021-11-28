@@ -20,11 +20,13 @@ No exato momento em que escrevo isto estou estudando JavaScript e iniciando em N
 - HTML, CSS e JavaScript
 - Intusiasta por Python 💡
 - PostgreSQL
+- Criação de Diagramas de Entidades e Relacionamentos (DER)
 
 ---
   
 ### :writing_hand: Estudando:
 - Node.js
+- Python com Pandas
   
 ---
 
