@@ -6,8 +6,11 @@
 ---
 
 ### 🤵 Sobre mim:
-Me chamo Thanael Butewicz tenho 20 anos, aspiro futuramente me tornar um desenvolvedor de software, atualmente ainda estou estudando meio que de tudo um pouco para decidir qual área exatamente seguir. 
-No exato momento em que escrevo isto estou estudando JavaScript e iniciando em Node.Js
+Olá Pessoas, me chamo Thanael tenho 20 anos e o objetivo de solucionar problemas atraves da tecnologia.
+ 
+Atualmente estou numa fase onde estudo de tudo um pouco afim de desbravar esse universo gigante de conteúdos que a tecnologia engloba, até encontrar a área da qual poderei falar com covicção "É nessa que vou me especializar".
+
+E nessa jornada de conteúdos que estou percorrendo, hoje meus estudos estão focados na área de DataScience, na qual estou vendo a respeito de analise de dados e iniciando estudos na área de Machine Learning que por sinal despertou grande interesse em mim.
 
 - Curso: 🎓 Estudante de Engenharia de Software 4° Semestre.
 - Ocupação: :man_office_worker: Aprendiz em **Desenvolvimento de Sistemas** na **[Pormade.](https://www.pormadeonline.com.br)** <br>
