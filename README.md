@@ -1,35 +1,38 @@
-<h1 align='center'> Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> </h1>
+<h1 align='center'> Hello World </h1>
 <p align="center"> 
  
-<img src='https://media-exp1.licdn.com/dms/image/C4D16AQED6UFmK_Ao6A/profile-displaybackgroundimage-shrink_350_1400/0/1603666821175?e=1639612800&v=beta&t=gkAz6raNXNfuYsgevKnJKZihNChO6sGpq68zRF5FZ2g'>
+<img src='https://i.pinimg.com/originals/d5/26/bb/d526bb65e677bee39422b683b2fffc47.jpg'>
   
 ---
 
 ### 🤵 Sobre mim:
+<br>
 Olá Pessoas, me chamo Thanael tenho 20 anos e o objetivo de solucionar problemas atraves da tecnologia.
- 
+<br><br>
 Atualmente estou numa fase onde estudo de tudo um pouco afim de desbravar esse universo gigante de conteúdos que a tecnologia engloba, até encontrar a área da qual poderei falar com covicção "É nessa que vou me especializar".
-
+<br><br>
 E nessa jornada de conteúdos que estou percorrendo, hoje meus estudos estão focados na área de DataScience, na qual estou vendo a respeito de analise de dados e iniciando estudos na área de Machine Learning que por sinal despertou grande interesse em mim.
 
-- Curso: 🎓 Estudante de Engenharia de Software 4° Semestre.
-- Ocupação: :man_office_worker: Aprendiz em **Desenvolvimento de Sistemas** na **[Pormade.](https://www.pormadeonline.com.br)** <br>
-            :man_office_worker: Estágiario em **Desenvolvimento de Sistemas** na **[Pormade.](https://www.pormadeonline.com.br)**
+--- 
+### Experiência profissional 
+<br>
+- Fev/2022 - Atual: :man_office_worker: Estágio em **Ciência de dados** na **[TecnoSpeed.](https://tecnospeed.com.br)** 
+- Nov/2021 - Fev/2022: :man_office_worker: Aprendiz e estagiário em **Desenvolvimento de Sistemas** na **[Pormade.](https://www.pormadeonline.com.br)** <br>
 
 
 ---
   
 ### :computer: Conhecimentos:
-- HTML, CSS e JavaScript
 - Intusiasta por Python 💡
-- PostgreSQL
-- Criação de Diagramas de Entidades e Relacionamentos (DER)
+- Pandas :panda_face:
+- SQL :book:
+- HTML, CSS e JavaScript
 
 ---
   
 ### :writing_hand: Estudando:
-- Node.js
-- Python com Pandas
+- Machine Learning
+- Data Visualization 
   
 ---
 
@@ -51,7 +54,7 @@ E nessa jornada de conteúdos que estou percorrendo, hoje meus estudos estão fo
       src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"
     />
    </a>
-   <a href="www.linkedin.com/in/thanaelbutewicz">
+   <a href="https://www.linkedin.com/in/thanael/">
     <img 
       alt="LinkedIn" 
       title="Thanael Butewicz"
