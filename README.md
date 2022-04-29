@@ -16,7 +16,8 @@ E nessa jornada de conteúdos que estou percorrendo, hoje meus estudos estão fo
 --- 
 ### Experiência profissional 
 <br>
-- Fev/2022 - Atual: :man_office_worker: Estágio em **Ciência de dados** na **[TecnoSpeed.](https://tecnospeed.com.br)** 
+
+- Fev/2022 - Atual: :man_office_worker: Estágio em **Ciência de dados** na **[TecnoSpeed.](https://tecnospeed.com.br)**
 - Nov/2021 - Fev/2022: :man_office_worker: Aprendiz e estagiário em **Desenvolvimento de Sistemas** na **[Pormade.](https://www.pormadeonline.com.br)** <br>
 
 
