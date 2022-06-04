@@ -26,6 +26,7 @@ E nessa jornada de conteúdos que estou percorrendo, hoje meus estudos estão fo
 ### :computer: Conhecimentos:
 - Intusiasta por Python 💡
 - Pandas :panda_face:
+- Web Scraping com Python
 - SQL :book:
 - HTML, CSS e JavaScript
 
