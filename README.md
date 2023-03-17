@@ -1,53 +1,36 @@
-<h1 align='center'> Hello World </h1>
-<p align="center"> 
- 
-<img src='https://i.pinimg.com/originals/d5/26/bb/d526bb65e677bee39422b683b2fffc47.jpg'>
-  
----
-
-### 🤵 Sobre mim:
-<br>
-Olá Pessoas, me chamo Thanael tenho 21 anos e o objetivo de solucionar problemas atraves da tecnologia.
-<br><br>
-Atualmente estou numa fase onde estudo de tudo um pouco afim de desbravar esse universo gigante de conteúdos que a tecnologia engloba, até encontrar a área da qual poderei falar com covicção "É nessa que vou me especializar".
-<br><br>
-E nessa jornada de conteúdos que estou percorrendo, hoje meus estudos estão focados na área de DataScience, na qual estou vendo a respeito de analise de dados e iniciando estudos na área de Machine Learning que por sinal despertou grande interesse em mim.
-
---- 
-### Experiência profissional 
-<br>
-- Jan/2023 - Atual: :man_office_worker: **Desenvolvedor Trainee 2** na **[TecnoSpeed.](https://tecnospeed.com.br)**
-- Fev/2022 - Dez/2022: :man_office_worker: Estágio em **Ciência de dados** na **[TecnoSpeed.](https://tecnospeed.com.br)**
-- Nov/2021 - Fev/2022: :man_office_worker: Aprendiz e estagiário em **Desenvolvimento de Sistemas** na **[Pormade.](https://www.pormadeonline.com.br)** <br>
+<img src='https://media.licdn.com/dms/image/C4D16AQEOH-o5tTXinQ/profile-displaybackgroundimage-shrink_350_1400/0/1655250185535?e=1684368000&v=beta&t=89LfAo0oa1Hx33a_oMB0Na_ozkrP_63wSDtx6kX4Csk'>
 
 
----
-  
-### :computer: Conhecimentos:
-- Intusiasta por Python 💡
-- Pandas :panda_face:
-- Web Scraping com Python
-- SQL :book:
-- HTML, CSS e JavaScript
+#### <b> Thanael Butewicz - <u> Desenvolvedor em inicio de vida nômade </u> </b>
+<b> Objetivo: </b> Resolver problemas através dos dados.
+##### <b> Experiência profissional </b>
+<li> Jan/2023 - Atual | <a href='https://tecnospeed.com.br/institucional/'> Tecnospeed </a> | <b> Desenvolvedor Trainee 2 </b> </li>
+<li> Fev/2022 - Dez/2022 | <a href='https://tecnospeed.com.br/institucional/'> Tecnospeed  </a>| <b> Estágio em Ciência de dados </b> </li>
+<li> Nov/2021 - Fev/2022 | <a href='https://www.pormade.com.br/quem-somos'> Pormade </a> | <b> Aprendiz e Estágio em Desenvolvimento </b> </li>
 
----
-  
-### :writing_hand: Estudando:
-- Machine Learning
-- Data Visualization 
-  
----
+##### Conhecimentos
+Foco em estudar e aplicar tecnologias voltadas a ciência de dados como por exemplo;
+<li> Python - <i> Utilizo Diariamente </i> </li>
+<li> Manipulação de dados (Pandas e outras bibliotecas) - <i> Utilizo Diariamente </i> </li>
+<li> SQL - <i> Utilizo Diariamente </i> </li>
+<li> Web Scrapping </li>
+<li> Node.js - <i> Básico sobre criação de APIs </i> </li>
+<li> HTML, CSS e JavaScript - <i> Básico </i> </li>
 
-<h3> Atividades: </h3>
+##### Informações Adicionais.
+<li> Nômade Digital </li>
+<li> Estudante de Marketing Digital e Finanças </li>
+<li> Membro ativo e participativo na <a href='https://forum.casadodesenvolvedor.com.br/forum/312-python/'> Casa do Desenvolvedor </a>
+
+
+##### Estatisticas
 
 <a href="https://github.com/zThanael">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zThanael&show_icons=true&theme=radical" />
 </a>
 
 
----
-
-### 🤝🏻 Contato 
+##### Contatos 
 <div align="left">
    <a href="https://github.com/zThanael">
     <img 
