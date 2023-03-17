@@ -7,7 +7,7 @@
 
 ### 🤵 Sobre mim:
 <br>
-Olá Pessoas, me chamo Thanael tenho 20 anos e o objetivo de solucionar problemas atraves da tecnologia.
+Olá Pessoas, me chamo Thanael tenho 21 anos e o objetivo de solucionar problemas atraves da tecnologia.
 <br><br>
 Atualmente estou numa fase onde estudo de tudo um pouco afim de desbravar esse universo gigante de conteúdos que a tecnologia engloba, até encontrar a área da qual poderei falar com covicção "É nessa que vou me especializar".
 <br><br>
@@ -16,8 +16,8 @@ E nessa jornada de conteúdos que estou percorrendo, hoje meus estudos estão fo
 --- 
 ### Experiência profissional 
 <br>
-
-- Fev/2022 - Atual: :man_office_worker: Estágio em **Ciência de dados** na **[TecnoSpeed.](https://tecnospeed.com.br)**
+- Jan/2023 - Atual: :man_office_worker: **Desenvolvedor Trainee 2** na **[TecnoSpeed.](https://tecnospeed.com.br)**
+- Fev/2022 - Dez/2022: :man_office_worker: Estágio em **Ciência de dados** na **[TecnoSpeed.](https://tecnospeed.com.br)**
 - Nov/2021 - Fev/2022: :man_office_worker: Aprendiz e estagiário em **Desenvolvimento de Sistemas** na **[Pormade.](https://www.pormadeonline.com.br)** <br>
 
 
