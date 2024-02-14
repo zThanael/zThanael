@@ -1,6 +1,3 @@
-<img src='https://media.licdn.com/dms/image/D4E03AQFSPm75nWh3FA/profile-displayphoto-shrink_800_800/0/1695142230447?e=1713398400&v=beta&t=h1luI8ITIywYCuvmz1E8Jdi7bWcU3D73Gfrq0484gqY'>
-
-
 #### <b> Thanael Butewicz - <u> Nomâde Digital e Analista de Dados </u> </b>
 <b> Objetivo: </b> Resolver problemas através dos dados enquanto aproveito a vida.
 ##### <b> Experiência profissional </b>
