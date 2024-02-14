@@ -1,10 +1,11 @@
 <img src='https://media.licdn.com/dms/image/C4D16AQEOH-o5tTXinQ/profile-displaybackgroundimage-shrink_350_1400/0/1655250185535?e=1684368000&v=beta&t=89LfAo0oa1Hx33a_oMB0Na_ozkrP_63wSDtx6kX4Csk'>
 
 
-#### <b> Thanael Butewicz - <u> Desenvolvedor em inicio de vida nômade </u> </b>
-<b> Objetivo: </b> Resolver problemas através dos dados.
+#### <b> Thanael Butewicz - <u> Nomâde Digital e Analista de Dados </u> </b>
+<b> Objetivo: </b> Resolver problemas através dos dados enquanto aproveito a vida.
 ##### <b> Experiência profissional </b>
-<li> Jan/2023 - Atual | <a href='https://tecnospeed.com.br/institucional/'> Tecnospeed </a> | <b> Desenvolvedor Trainee 2 </b> </li>
+<li> Set/2023 - Atual    | <a href='https://tecnospeed.com.br/institucional/'> Tecnospeed </a> | <b> Analista de Dados Junior </b> </li>
+<li> Jan/2023 - Set/2023 | <a href='https://tecnospeed.com.br/institucional/'> Tecnospeed </a> | <b> Desenvolvedor Trainee 2 </b> </li>
 <li> Fev/2022 - Dez/2022 | <a href='https://tecnospeed.com.br/institucional/'> Tecnospeed  </a>| <b> Estágio em Ciência de dados </b> </li>
 <li> Nov/2021 - Fev/2022 | <a href='https://www.pormade.com.br/quem-somos'> Pormade </a> | <b> Aprendiz e Estágio em Desenvolvimento </b> </li>
 
@@ -13,13 +14,15 @@ Foco em estudar e aplicar tecnologias voltadas a ciência de dados como por exem
 <li> Python - <i> Utilizo Diariamente </i> </li>
 <li> Manipulação de dados (Pandas e outras bibliotecas) - <i> Utilizo Diariamente </i> </li>
 <li> SQL - <i> Utilizo Diariamente </i> </li>
-<li> Web Scrapping </li>
+<li> Data Viz <i> Utilizo Diariamente | Metabase</i> </li>
+<li> Web Scrapping <i> (Selennium e BeautifulSoap) </i> </li>
+<li> Airflow - <i> Aprendendo enquanto Implementamos </i> </li>
 <li> Node.js - <i> Básico sobre criação de APIs </i> </li>
 <li> HTML, CSS e JavaScript - <i> Básico </i> </li>
 
 ##### Informações Adicionais.
 <li> Nômade Digital </li>
-<li> Estudante de Marketing Digital e Finanças </li>
+<li> Espanhol e Ingles </li>
 <li> Membro ativo e participativo na <a href='https://forum.casadodesenvolvedor.com.br/forum/312-python/'> Casa do Desenvolvedor </a>
 
 
